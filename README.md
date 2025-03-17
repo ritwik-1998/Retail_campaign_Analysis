@@ -2,6 +2,8 @@
 ## Project Overview
 The project aimed to provide the Sales Director with data-driven insights to optimize future promotional strategies by analysing the impact of promotions on branded product sales.
 
+## **Tools Used:** Power BI, SQL Server, Power Query, DAX
+
 ## Highlights
 
 1. Connected SQL Server as a data source to Power BI using Import mode, ensuring efficient data retrieval and analysis.
@@ -21,4 +23,13 @@ The project aimed to provide the Sales Director with data-driven insights to opt
 2. Another key finding is that the Diwali Campaign campaigns were the most effective because it has generated Nearly double the revenue compared to the Sankranti Campaign.
 3. The top 3 Performing Cities by Revenue Generated After Promotion are Bangalore, Chennai, and Hyderabad.
 
-![image_alt](https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/8651a7ba650e30e5c85942d765d59398472779be/Screenshot%202025-03-17%20174352.png)
+![image_alt](https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/main/Screenshot%202025-03-17%20174434.png?raw=true)
+
+## Report Features
+1. Implemented a separate page within the Power BI report dedicated to comparing pre- and post-promotion performance using bookmarks for seamless navigation and interactive analysis.
+2. This project empowered the Sales Director to make informed decisions regarding future promotional strategies by providing a clear understanding of the impact and effectiveness of the Diwali 2023 and Sankranti 2024 campaigns.
+
+![image_alt](
+
+![image_alt](
+
