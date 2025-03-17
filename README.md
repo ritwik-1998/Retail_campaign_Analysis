@@ -29,7 +29,4 @@ The project aimed to provide the Sales Director with data-driven insights to opt
 1. Implemented a separate page within the Power BI report dedicated to comparing pre- and post-promotion performance using bookmarks for seamless navigation and interactive analysis.
 2. This project empowered the Sales Director to make informed decisions regarding future promotional strategies by providing a clear understanding of the impact and effectiveness of the Diwali 2023 and Sankranti 2024 campaigns.
 
-![image_alt](
-
-![image_alt](
-
+![image_alt](https://github.com/ritwik-1998/Retail_campaign_Analysis/blob/main/Screenshot%202025-03-17%20174538.png?raw=true)
